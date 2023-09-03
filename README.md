@@ -1,1 +1,2 @@
-# A-Machine-Learning-Approach-for-Classifying-and-Predicting-DDoS-Attacks-along-with-Botnet-Prevention
+This work employs Machine Learning (Naive Bayes, Random Forest and XGBoost algorithms) and Deep Learning (DNN) to classify and predict DDoS attacks. An additional feature, Botnet Prevention, helps detect Phishing URLs to prevent a healthy device from being a part of the botnet using Logistic Regression.
+Accuracies: Naive Bayes - 93.82%, Random Forest - 99.36%, XGBoost - 98.925%, DNN - 90.17%, Logistic Regression - 96%
